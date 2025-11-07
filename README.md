@@ -1,0 +1,1 @@
+# Linux-script-de-monitoramento-de-sistema
