@@ -1,0 +1,22 @@
+drivers esta com 84% de uso.
+C:\ esta com 84% de uso.
+Fri Oct 31 13:21:54 -03 2025
+drivers esta com 84% de uso.
+C:\ esta com 84% de uso.
+Uso de disco no diretorio principal: 
+164K	/home/maluzeira
+Fri Oct 31 13:45:10 -03 2025
+drivers esta com 84% de uso.
+C:\ esta com 84% de uso.
+Uso de disco no diretorio principal: 
+160K	/home/maluzeira
+Fri Oct 31 14:07:42 -03 2025
+drivers esta com 84% de uso.
+C:\ esta com 84% de uso.
+Uso de disco no diretorio principal: 
+172K	/home/maluzeira
+Fri Oct 31 15:38:37 -03 2025
+drivers esta com 83% de uso.
+C:\ esta com 83% de uso.
+Uso de disco no diretorio principal: 
+172K	/home/maluzeira

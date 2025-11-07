@@ -1,0 +1,12 @@
+Fri Oct 31 13:45:10 -03 2025
+Total: 7.5Gi, Usada: 533Mi, Livre: 6.9Gi
+Fri Oct 31 14:07:42 -03 2025
+Memoria RAM. Total: 7.5Gi, Usada: 535Mi, Livre: 6.9Gi
+Uso da CPU: 0%
+Fri Oct 31 15:38:37 -03 2025
+Memoria RAM. Total: 7.5Gi, Usada: 520Mi, Livre: 6.9Gi
+Uso da CPU: 0%
+Operacoes de leitura e escrita:
+sda 1.82 118.31 0.00
+sdb 0.20 10.30 0.00
+sdc 0.16 3.55 0.01

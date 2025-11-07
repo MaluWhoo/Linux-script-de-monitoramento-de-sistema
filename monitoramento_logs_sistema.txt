@@ -1,0 +1,6 @@
+2025-10-29T15:22:02.711200-03:00 Malu kernel: WSL (237) ERROR: CheckConnection:
+2025-10-29T15:22:14.141674-03:00 Malu maluzeira: time="2025-10-29T15:22:14" level=error msg="error: Falha
+2025-10-29T15:22:19.517913-03:00 Malu maluzeira: time="2025-10-29T15:22:19" level=warning msg="failed: Serviço
+2025-10-29T15:22:26.255697-03:00 Malu maluzeira: time="2025-10-29T15:22:26" level=info msg="access denied:
+2025-10-29T15:22:29.780095-03:00 Malu maluzeira: time="2025-10-29T15:22:29" level=error msg="unauthorized: Tentativa
+2025-10-29T15:22:40.452467-03:00 Malu maluzeira: time="2025-10-29T15:22:40" level=warning msg="fail: Erro
